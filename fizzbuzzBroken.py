@@ -1,3 +1,6 @@
+testVal = 35
+print(testVal)
+
 for val in range (1,101):
     if val % 3 == True:
         print("Fizz")
