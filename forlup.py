@@ -1,4 +1,3 @@
-list=['donkey','monkey','horse']
-for animal in list:
+blist=['donkey','monkey','horse']
+for animal in blist:
     print(animal)
-    # test
